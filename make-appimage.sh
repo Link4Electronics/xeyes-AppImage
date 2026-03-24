@@ -9,7 +9,6 @@ export OUTPATH=./dist
 export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export ICON=https://upload.wikimedia.org/wikipedia/commons/2/2e/Xeyes.png
-export DESKTOP=DUMMY
 export ALWAYS_SOFTWARE=1
 
 # Deploy dependencies
