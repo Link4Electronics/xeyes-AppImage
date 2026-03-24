@@ -6,4 +6,4 @@ Icon=Xeyes
 StartupWMClass=
 Terminal=false
 Type=Application
-Categories=Simulation;
+Categories=Simulation;demo;
